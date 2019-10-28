@@ -21,7 +21,8 @@ Ainsi que les méthodes suivantes :
 - [x] Freiner
 - [x] Les accesseurs des propriétés
 
-Et si tu es plutôt visuel:
+Et si tu es plutôt visuel:  
+
 ![UML-car](http://images.innoveduc.fr/php_parcours/OOP/uml-car.png)
 
 Critères de validation
